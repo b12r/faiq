@@ -1,0 +1,18 @@
+.faiq-collected-questions {
+    border: 1px solid black;
+    padding: 16px 18px 20px 18px;
+}
+
+.faiq-collected-questions-list {
+    margin-top: 18px;
+}
+
+.faiq-collected-questions-list-item {
+    background-color: #e6f2f0;
+    border-radius: 6px;
+    padding: 10px 12px;
+}
+
+.faiq-collected-questions-list-item + .faiq-collected-questions-list-item {
+    margin-top: 14px;
+}

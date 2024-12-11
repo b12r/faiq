@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  max-width: 640px;
+  padding: 16px;
+}
+
+h1, h2 {
+  font-size: inherit;
+  font-weight: normal;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.faiq-h1 {
+  margin-bottom: 20px;
+}
+
+.faiq-collected-questions {
+  margin-top: 20px;
+}
